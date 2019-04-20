@@ -12,6 +12,7 @@ public class App
   System.out.println( "abc!" );
 
   System.out.println( "xyz" );
+String c =0;
 
     }
 }
