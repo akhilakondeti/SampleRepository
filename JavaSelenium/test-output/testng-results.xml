@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87796" started-at="2019-04-25T09:20:09Z" finished-at="2019-04-25T09:21:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87796" started-at="2019-04-25T09:20:09Z" finished-at="2019-04-25T09:21:36Z">
+      <class name="tests.CurisHealth">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.CurisHealth@525b461a]" name="setUp" is-config="true" duration-ms="207" started-at="2019-04-25T14:50:09Z" finished-at="2019-04-25T14:50:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testIntialize()[pri:0, instance:tests.CurisHealth@525b461a]" name="testIntialize" is-config="true" duration-ms="5053" started-at="2019-04-25T14:50:09Z" finished-at="2019-04-25T14:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntialize -->
+        <test-method status="PASS" signature="patientRegistration()[pri:0, instance:tests.CurisHealth@525b461a]" name="patientRegistration" duration-ms="13373" started-at="2019-04-25T14:50:14Z" finished-at="2019-04-25T14:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patientRegistration -->
+        <test-method status="PASS" signature="testCleanUp()[pri:0, instance:tests.CurisHealth@525b461a]" name="testCleanUp" is-config="true" duration-ms="58" started-at="2019-04-25T14:50:27Z" finished-at="2019-04-25T14:50:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCleanUp -->
+        <test-method status="PASS" signature="testIntialize()[pri:0, instance:tests.CurisHealth@525b461a]" name="testIntialize" is-config="true" duration-ms="3919" started-at="2019-04-25T14:50:27Z" finished-at="2019-04-25T14:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntialize -->
+        <test-method status="PASS" signature="doctorAppointment()[pri:0, instance:tests.CurisHealth@525b461a]" name="doctorAppointment" duration-ms="10739" started-at="2019-04-25T14:50:31Z" finished-at="2019-04-25T14:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doctorAppointment -->
+        <test-method status="PASS" signature="testCleanUp()[pri:0, instance:tests.CurisHealth@525b461a]" name="testCleanUp" is-config="true" duration-ms="2105" started-at="2019-04-25T14:50:42Z" finished-at="2019-04-25T14:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCleanUp -->
+        <test-method status="PASS" signature="testIntialize()[pri:0, instance:tests.CurisHealth@525b461a]" name="testIntialize" is-config="true" duration-ms="4743" started-at="2019-04-25T14:50:44Z" finished-at="2019-04-25T14:50:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIntialize -->
+        <test-method status="PASS" signature="billingDeposit()[pri:0, instance:tests.CurisHealth@525b461a]" name="billingDeposit" duration-ms="46966" started-at="2019-04-25T14:50:49Z" finished-at="2019-04-25T14:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- billingDeposit -->
+        <test-method status="PASS" signature="testCleanUp()[pri:0, instance:tests.CurisHealth@525b461a]" name="testCleanUp" is-config="true" duration-ms="286" started-at="2019-04-25T14:51:36Z" finished-at="2019-04-25T14:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCleanUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.CurisHealth@525b461a]" name="tearDown" is-config="true" duration-ms="335" started-at="2019-04-25T14:51:36Z" finished-at="2019-04-25T14:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CurisHealth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

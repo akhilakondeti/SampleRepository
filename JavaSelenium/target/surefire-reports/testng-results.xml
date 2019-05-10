@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JavaSelenium.JavaSelenium.NewTest" duration-ms="22" started-at="2019-04-22T11:05:31Z" finished-at="2019-04-22T11:05:31Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="22" started-at="2019-04-22T11:05:31Z" finished-at="2019-04-22T11:05:31Z">
+      <class name="JavaSelenium.JavaSelenium.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:JavaSelenium.JavaSelenium.NewTest@1a407d53]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2019-04-22T16:35:31Z" finished-at="2019-04-22T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:JavaSelenium.JavaSelenium.NewTest@1a407d53]" name="f" duration-ms="0" started-at="2019-04-22T16:35:31Z" finished-at="2019-04-22T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:JavaSelenium.JavaSelenium.NewTest@1a407d53]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-04-22T16:35:31Z" finished-at="2019-04-22T16:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- JavaSelenium.JavaSelenium.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- JavaSelenium.JavaSelenium.NewTest -->
+</testng-results>
